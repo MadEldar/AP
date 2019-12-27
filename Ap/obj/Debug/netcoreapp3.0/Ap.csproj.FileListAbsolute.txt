@@ -1,0 +1,11 @@
+C:\Users\DELL\RiderProjects\AP\Ap\bin\Debug\netcoreapp3.0\Ap.exe
+C:\Users\DELL\RiderProjects\AP\Ap\bin\Debug\netcoreapp3.0\Ap.deps.json
+C:\Users\DELL\RiderProjects\AP\Ap\bin\Debug\netcoreapp3.0\Ap.runtimeconfig.json
+C:\Users\DELL\RiderProjects\AP\Ap\bin\Debug\netcoreapp3.0\Ap.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\AP\Ap\bin\Debug\netcoreapp3.0\Ap.dll
+C:\Users\DELL\RiderProjects\AP\Ap\bin\Debug\netcoreapp3.0\Ap.pdb
+C:\Users\DELL\RiderProjects\AP\Ap\obj\Debug\netcoreapp3.0\Ap.csprojAssemblyReference.cache
+C:\Users\DELL\RiderProjects\AP\Ap\obj\Debug\netcoreapp3.0\Ap.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\AP\Ap\obj\Debug\netcoreapp3.0\Ap.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\AP\Ap\obj\Debug\netcoreapp3.0\Ap.dll
+C:\Users\DELL\RiderProjects\AP\Ap\obj\Debug\netcoreapp3.0\Ap.pdb

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\DELL\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\DELL\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Ap.693522451.00" t="ExcludeRecursive" />
+    <e p="C:\Users\DELL\RiderProjects\AP\AP" t="IncludeRecursive">
+      <e p="Ap.csproj" t="IncludeRecursive" />
+      <e p="Ap.sln" t="IncludeFlat" />
+      <e p="Assignment01" t="IncludeRecursive">
+        <e p="Assignment01.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Assignment01.deps.json" t="Include" />
+              <e p="Assignment01.dll" t="Include" />
+              <e p="Assignment01.exe" t="Include" />
+              <e p="Assignment01.pdb" t="Include" />
+              <e p="Assignment01.runtimeconfig.dev.json" t="Include" />
+              <e p="Assignment01.runtimeconfig.json" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Number.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Assignment01.csproj.nuget.cache" t="Include" />
+          <e p="Assignment01.csproj.nuget.dgspec.json" t="Include" />
+          <e p="Assignment01.csproj.nuget.g.props" t="Include" />
+          <e p="Assignment01.csproj.nuget.g.targets" t="Include" />
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Assignment01.AssemblyInfo.cs" t="Include" />
+              <e p="Assignment01.AssemblyInfoInputs.cache" t="Include" />
+              <e p="Assignment01.assets.cache" t="Include" />
+              <e p="Assignment01.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="Assignment01.csprojAssemblyReference.cache" t="Include" />
+              <e p="Assignment01.dll" t="Include" />
+              <e p="Assignment01.exe" t="Include" />
+              <e p="Assignment01.pdb" t="Include" />
+            </e>
+          </e>
+          <e p="project.assets.json" t="Include" />
+          <e p="project.packagespec.json" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="Ap.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+  </component>
+</project>
