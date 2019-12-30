@@ -1,0 +1,11 @@
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\bin\Debug\netcoreapp3.0\LabSession02.exe
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\bin\Debug\netcoreapp3.0\LabSession02.deps.json
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\bin\Debug\netcoreapp3.0\LabSession02.runtimeconfig.json
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\bin\Debug\netcoreapp3.0\LabSession02.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\bin\Debug\netcoreapp3.0\LabSession02.dll
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\bin\Debug\netcoreapp3.0\LabSession02.pdb
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\obj\Debug\netcoreapp3.0\LabSession02.csprojAssemblyReference.cache
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\obj\Debug\netcoreapp3.0\LabSession02.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\obj\Debug\netcoreapp3.0\LabSession02.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\obj\Debug\netcoreapp3.0\LabSession02.dll
+C:\Users\DELL\RiderProjects\AP\Ap\LabSession02\obj\Debug\netcoreapp3.0\LabSession02.pdb

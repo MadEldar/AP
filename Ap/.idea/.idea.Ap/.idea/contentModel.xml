@@ -44,6 +44,43 @@
         <e p="Program.cs" t="Include" />
       </e>
       <e p="bin" t="ExcludeRecursive" />
+      <e p="LabSession02" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="LabSession02.deps.json" t="Include" />
+              <e p="LabSession02.dll" t="Include" />
+              <e p="LabSession02.exe" t="Include" />
+              <e p="LabSession02.pdb" t="Include" />
+              <e p="LabSession02.runtimeconfig.dev.json" t="Include" />
+              <e p="LabSession02.runtimeconfig.json" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="LabSession02.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="LabSession02.AssemblyInfo.cs" t="Include" />
+              <e p="LabSession02.AssemblyInfoInputs.cache" t="Include" />
+              <e p="LabSession02.assets.cache" t="Include" />
+              <e p="LabSession02.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="LabSession02.csprojAssemblyReference.cache" t="Include" />
+              <e p="LabSession02.dll" t="Include" />
+              <e p="LabSession02.exe" t="Include" />
+              <e p="LabSession02.pdb" t="Include" />
+            </e>
+          </e>
+          <e p="LabSession02.csproj.nuget.cache" t="Include" />
+          <e p="LabSession02.csproj.nuget.dgspec.json" t="Include" />
+          <e p="LabSession02.csproj.nuget.g.props" t="Include" />
+          <e p="LabSession02.csproj.nuget.g.targets" t="Include" />
+          <e p="project.assets.json" t="Include" />
+          <e p="project.packagespec.json" t="Include" />
+        </e>
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp3.0" t="Include">
