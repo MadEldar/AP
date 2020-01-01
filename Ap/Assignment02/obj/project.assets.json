@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\AP\\Ap\\Assignment03\\Assignment03.csproj",
-      "projectName": "Assignment03",
-      "projectPath": "C:\\Users\\DELL\\RiderProjects\\AP\\Ap\\Assignment03\\Assignment03.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\AP\\Ap\\Assignment02\\Assignment02.csproj",
+      "projectName": "Assignment02",
+      "projectPath": "C:\\Users\\DELL\\RiderProjects\\AP\\Ap\\Assignment02\\Assignment02.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\RiderProjects\\AP\\Ap\\Assignment03\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\RiderProjects\\AP\\Ap\\Assignment02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

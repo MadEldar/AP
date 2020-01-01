@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment01", "Assignment0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSession02", "LabSession02\LabSession02.csproj", "{9B069DF2-1108-4FA4-AE8D-FEDF80DFBBD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment03", "Assignment03\Assignment03.csproj", "{0A4D9ADE-1662-458E-A49A-5A5EC88B4642}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment02", "Assignment02\Assignment02.csproj", "{0A4D9ADE-1662-458E-A49A-5A5EC88B4642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
