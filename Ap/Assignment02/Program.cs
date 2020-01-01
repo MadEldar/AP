@@ -16,7 +16,8 @@ namespace Assignment03
             cart.AddToCart(new Product(4, "Marshall Mode", 2700000, 1, "Internet",
                 "Tai nghe Marshall Mode den", new string[] {"marshallmode.png"}));
             cart.RemoveFromCart();
-            Console.WriteLine("Tong tien cua gio hang la {0, 1}", cart.CalculateGrandTotal());
+            Console.WriteLine("Grand total of products is {0, 1}\n", cart.GrandTotal);
+            cart.GetInfo();
         }
     }
 }

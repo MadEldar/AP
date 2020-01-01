@@ -14,11 +14,22 @@ namespace Assignment03
 
         public Cart(int id, string name, string city, string country)
         {
-            _id = id;
-            _name = name;
-            _city = city;
-            _country = country;
-            _grandTotal = CalculateGrandTotal();
+            Id = id;
+            Name = name;
+            City = city;
+            Country = country;
+            GrandTotal = CalculateGrandTotal();
+        }
+
+        public void GetInfo()
+        {
+            Console.WriteLine("{0, -3} {1, -20} {2, -10} {3, 1}", Id, Name, City, Country);
+            Console.WriteLine("Products list:");
+            foreach (Product product in ProductList)
+            {
+                product.GetInfo();
+            }
+            Console.WriteLine("Grand total of products: {0, 1}\n", GrandTotal);
         }
 
         public void AddToCart(Product product)
@@ -42,16 +53,14 @@ namespace Assignment03
 
         public int CalculateGrandTotal()
         {
-            GrandTotal = 0;
+            _grandTotal = 0;
             foreach (Product product in ProductList)
             {
-                GrandTotal += product.Price * product.Quantity;
-                Console.WriteLine(product.Price * product.Quantity);
+                _grandTotal += product.Price * product.Quantity;
             }
-            GrandTotal += GrandTotal / (City == "HN" ? 100 : City == "HCM" ? 50 : 20); 
-            Console.WriteLine(GrandTotal);
+            _grandTotal += _grandTotal / (City == "HN" ? 100 : City == "HCM" ? 50 : 20); 
             
-            return GrandTotal;
+            return _grandTotal;
         }
 
         public int Id
@@ -68,7 +77,7 @@ namespace Assignment03
 
         public int GrandTotal
         {
-            get => _grandTotal;
+            get => CalculateGrandTotal();
             set => _grandTotal = value;
         }
 

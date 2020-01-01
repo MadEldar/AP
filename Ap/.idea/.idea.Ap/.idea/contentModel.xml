@@ -43,40 +43,36 @@
         </e>
         <e p="Program.cs" t="Include" />
       </e>
-      <e p="Assignment03" t="IncludeRecursive">
-        <e p="Assignment03.csproj" t="IncludeRecursive" />
+      <e p="Assignment02" t="IncludeRecursive">
+        <e p="Assignment02.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
-              <e p="Assignment03.deps.json" t="Include" />
-              <e p="Assignment03.dll" t="Include" />
-              <e p="Assignment03.exe" t="Include" />
-              <e p="Assignment03.pdb" t="Include" />
-              <e p="Assignment03.runtimeconfig.dev.json" t="Include" />
-              <e p="Assignment03.runtimeconfig.json" t="Include" />
+              <e p="Assignment02.deps.json" t="Include" />
+              <e p="Assignment02.exe" t="Include" />
+              <e p="Assignment02.runtimeconfig.dev.json" t="Include" />
+              <e p="Assignment02.runtimeconfig.json" t="Include" />
             </e>
           </e>
         </e>
         <e p="Cart.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Assignment03.csproj.nuget.cache" t="Include" />
-          <e p="Assignment03.csproj.nuget.dgspec.json" t="Include" />
-          <e p="Assignment03.csproj.nuget.g.props" t="Include" />
-          <e p="Assignment03.csproj.nuget.g.targets" t="Include" />
+          <e p="Assignment02.csproj.nuget.cache" t="Include" />
+          <e p="Assignment02.csproj.nuget.dgspec.json" t="Include" />
+          <e p="Assignment02.csproj.nuget.g.props" t="Include" />
+          <e p="Assignment02.csproj.nuget.g.targets" t="Include" />
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
-              <e p="Assignment03.AssemblyInfo.cs" t="Include" />
-              <e p="Assignment03.AssemblyInfoInputs.cache" t="Include" />
-              <e p="Assignment03.assets.cache" t="Include" />
-              <e p="Assignment03.csproj.FileListAbsolute.txt" t="Include" />
-              <e p="Assignment03.csprojAssemblyReference.cache" t="Include" />
-              <e p="Assignment03.dll" t="Include" />
-              <e p="Assignment03.exe" t="Include" />
-              <e p="Assignment03.pdb" t="Include" />
+              <e p="Assignment02.AssemblyInfo.cs" t="Include" />
+              <e p="Assignment02.AssemblyInfoInputs.cache" t="Include" />
+              <e p="Assignment02.assets.cache" t="Include" />
+              <e p="Assignment02.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="Assignment02.csprojAssemblyReference.cache" t="Include" />
+              <e p="Assignment02.dll" t="Include" />
+              <e p="Assignment02.exe" t="Include" />
+              <e p="Assignment02.pdb" t="Include" />
             </e>
           </e>
-          <e p="project.assets.json" t="Include" />
-          <e p="project.packagespec.json" t="Include" />
         </e>
         <e p="Product.cs" t="Include" />
         <e p="Program.cs" t="Include" />
