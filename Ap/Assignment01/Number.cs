@@ -1,4 +1,4 @@
-﻿namespace Ap.Assignment01
+﻿namespace Assignment01
 {
     public class Number
     {
@@ -6,30 +6,26 @@
 
         public Number(int value)
         {
-            SetValue(value);
+            Value = value;
         }
 
-        public void SetValue(int value)
+        public int Value
         {
-            this._value = value;
-        }
-
-        public int GetValue()
-        {
-            return this._value;
+            get => _value;
+            set => _value = value;
         }
 
         public int GetNearestFib()
         {
             int prev = 0, next = 1;
-            while (prev + next < GetValue())
+            while (next < Value)
             {
                 int temp = prev;
                 prev = next;
                 next = prev + temp;
             }
 
-            return next;
+            return next + prev < Value * 2 ? next : prev ;
         }
     }
 }

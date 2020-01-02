@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ap.Assignment01
+namespace Assignment01
 {
     class Program
     {
