@@ -42,8 +42,6 @@ namespace LabSession03
                 AddingProduct += DislayMessage;
             }
 
-            Console.WriteLine(AddingProduct.ToString());
-            
             AddingProduct("San pham " + product.Name + " da duoc them vao gio hang");
         }
 
@@ -75,7 +73,7 @@ namespace LabSession03
 
         private void DislayMessage(string message)
         {
-            Console.WriteLine(message);
+            Console.WriteLine(message + "\n");
         }
 
         public int Id

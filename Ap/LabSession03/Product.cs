@@ -33,7 +33,7 @@ namespace LabSession03
 
         private static void DisplayMessage(string message)
         {
-            Console.WriteLine(message);
+            Console.WriteLine(message + "\n");
         }
 
         public int Id
@@ -64,7 +64,11 @@ namespace LabSession03
                     Event += DisplayMessage;
                 }
 
-                if (value > Quantity)
+                if (Quantity == 0)
+                {
+                    Event("So luong san pham duoc dat la " + value);
+                }
+                else if (value > Quantity)
                 {
                     Event("So luong san pham tang len " + (value - Quantity) + " san pham, len thanh " + value);
                 }
