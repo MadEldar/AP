@@ -21,7 +21,7 @@ namespace LabSession04
         {
             try
             {
-                for (int i = b.Timer; i > 0; i--)
+                for (int i = b.Timer; i >= 0; i--)
                 {
                     Console.WriteLine("{0}:{1}", i/60, i%60);
                     Thread.Sleep(100);
