@@ -15,7 +15,7 @@ namespace FinalExercise2
                 OnPrimeNumber += DisplayMessage;
             }
             
-            for (int i = 1; i <= 100; i++)
+            for (int i = 1; i <= 10; i++)
             {
                 if (IsPrime(i))
                 {
